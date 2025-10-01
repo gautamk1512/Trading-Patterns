@@ -1,0 +1,18 @@
+# Project Requirements
+
+# Runtime
+node>=18.0.0
+npm>=9.0.0
+
+# Frameworks & Libraries
+next=14.x
+react=18.x
+typescript=5.x
+tailwindcss=3.x
+radix-ui
+shadcn-ui
+lucide-react
+
+# Notes
+# This is a Node/Next.js project; package versions are primarily managed in package.json.
+# This file summarizes minimum versions and core libraries for quick reference.

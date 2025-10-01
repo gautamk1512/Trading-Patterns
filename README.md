@@ -1,4 +1,8 @@
-# Trading Patterns
+<p align="center">
+  <img src="public/placeholder-logo.svg" alt="Trading Patterns Logo" width="120">
+</p>
+
+<h1 align="center">Trading Patterns</h1>
 
 A modern Next.js 14 application for a multi-mode trading platform featuring eKYC verification, solo and team trading modes, broker API integrations, and a rich component library.
 
@@ -91,7 +95,7 @@ A modern Next.js 14 application for a multi-mode trading platform featuring eKYC
 ## Project Structure
 - app/ — Next.js App Router pages and layouts
 - components/ — UI and feature components
-- public/ — static assets
+- public/ — static assets (logo and images live here)
 - styles/ — global styles
 
 ## Scripts (package.json)
@@ -101,7 +105,7 @@ A modern Next.js 14 application for a multi-mode trading platform featuring eKYC
 - lint: Run ESLint
 
 ## Branding
-This project has been updated to use the name "Trading Patterns" in the navigation and across key sections.
+This project has been updated to use the name "Trading Patterns" in the navigation and across key sections. Logo file: public/placeholder-logo.svg
 
 ## License
 Copyright © 2024 Trading Patterns. All rights reserved.
